@@ -1,57 +1,52 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=¡Hola%2C+soy+Andrés+Campos!;Desarrollador+C%2B%2B+%7C+NASM+%7C+Python;Apasionado+por+los+algoritmos+y+el+código+limpio" alt="Typing SVG" />
-</p>
+# 💻 Hi, I’m Andrés Campos Montero! 👋  
+
+### 🚀 Developer in constant evolution | Passionate about AI and learning new things  
 
 ---
 
-### 🚀 Desarrollador en constante evolución | Apasionado por el código limpio y los desafíos técnicos  
+### 🌟 About Me  
+I’m a student passionate about **programming** and **artificial intelligence**.  
+My dream? To work developing or training **AI models** that make a real impact.
 
 ---
 
-### 🌟 Sobre mí  
-Soy un desarrollador con gran interés en **estructuras de datos, optimización de algoritmos y programación de bajo nivel** (sí, ¡también disfruto escribir en ensamblador 😏!).  
-Me gusta aprender cómo funcionan las cosas **desde adentro**, y siempre busco la manera más eficiente, clara y elegante de resolver un problema.
+### 🧠 Currently...  
+- 🔭 Working on personal projects using **C++, Python, Java, and NASM**.  
+- 🌱 Learning more about **different areas of computer science**, both software and hardware.  
+- ⚙️ Experimenting with **code optimization and process automation using AI-driven agents**.  
 
 ---
 
-### 🧠 Actualmente estoy...  
-- 🔭 Trabajando en proyectos personales con **C++, Python y NASM**.  
-- 🌱 Aprendiendo más sobre **arquitectura de compiladores y optimización de código**.  
-- ⚙️ Experimentando con **algoritmos de ordenamiento, búsqueda y estructuras jerárquicas (árboles AA, AVL, etc.)**.  
-
----
-
-### 🧰 Tecnologías y herramientas favoritas  
+### 🧰 Favorite Technologies & Tools  
 <div align="center">
 
-| Lenguajes | Tecnologías | Otras herramientas |
-|:----------:|:------------:|:------------------:|
+| Languages | Technologies | Other Tools |
+|:----------:|:-------------:|:-------------:|
 | 🐍 Python | 🧱 NASM | 🧑‍💻 Git & GitHub |
-| ⚙️ C / C++ | 🧩 MATLAB | 🧾 LaTeX |
-| 💾 SQL | ☁️ AWS (básico) | 🛠️ VS Code, Notepad++ |
+| ⚙️ C / C++ | 🧾 LaTeX | 🧩 NetBeans |
+| ☕ Java | 🪟 Office Tools | 🛠️ VS Code |
 
 </div>
 
 ---
 
-### 💬 Un poco más de mí  
-> “El código perfecto no existe, pero siempre puede ser más elegante.”  
+### 💬 A Little About Me  
+> “Today’s hard work is tomorrow’s rest.”  
 > — *Andrés Campos*
 
-- 😄 Me dicen **Andr3sCamp0s** en casi todas partes.  
-- 🎧 Me encanta hacer **mixes musicales** (Rihanna tiene un lugar fijo en mi playlist).  
-- ⚡ Fun fact: puedo perder horas ajustando una sola línea… solo para verla correr impecablemente.
+- 😄 Most people call me **Champi**.  
+- 🎧 I love making **music mixes** and practicing sports, especially **basketball**.  
+- ⚡ Fun fact: I once had to rebuild an entire project from scratch — **slept only 2 hours in 2 days LOL**.
 
 ---
 
-### 📫 Cómo contactarme  
-- ✉️ **Email:** [andres.campos.dev@gmail.com](mailto:andres.campos.dev@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/andrescampos](https://linkedin.com/in/andrescampos)  
-- 🧠 **GitHub:** [github.com/Andr3sCamp0s](https://github.com/Andr3sCamp0s)
+### 📫 How to reach me  
+- ✉️ **Email:** [andrescamposm2007@gmail.com](mailto:andrescamposm2007@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/andres-campos-montero-a5275338b](https://www.linkedin.com/in/andres-campos-montero-a5275338b)  
 
 ---
 
-### 📊 Mis estadísticas de GitHub  
+### 📊 GitHub Stats  
 
 <div align="center">
   
@@ -62,15 +57,16 @@ Me gusta aprender cómo funcionan las cosas **desde adentro**, y siempre busco l
 
 ---
 
-### 🧩 Repos que deberías ver  
-- 🔢 **Algoritmos Estructurados:** Implementaciones limpias y paso a paso en C++.  
-- 🧬 **NASM Proyectos:** Ejercicios y programas a nivel ensamblador.  
-- 🧮 **Matemáticas Computacionales:** Experimentos con MATLAB y Python.
+### 🧩 Repositories You Should Check Out  
+- 🔢 **Structured Algorithms:** Clean implementations of algorithms in Python and C++.  
+- 🧬 **NASM Projects:** Exercises and low-level assembly programs.  
+- 🧮 **Computational Mathematics:** Experiments using MATLAB and Python.  
+- 🏪 **Commerce Pages:** Website projects for small local businesses.  
 
 ---
 
 <div align="center">
 
-✨ *“El conocimiento es poder, pero entender cómo funciona es libertad.”* ✨  
+✨ *“Knowledge is power, but understanding how it works is freedom.”* ✨  
 
 </div>
